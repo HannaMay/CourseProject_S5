@@ -1,0 +1,36 @@
+*.DS_Store
+
+*.idea
+
+*.vscode
+
+*.ai
+
+*.log
+
+*.docx
+*.pdf
+
+*.psd
+
+*.sublime
+
+node_modules/
+npm-debug.*
+
+CourseProject_Bulava/Docs
+CourseProject_Bulava/CP_Site
+CourseProject_Bulava/FinalBuild
+CourseProject_Bulava/Assets/LowpolyVegetationPackFree
+CourseProject_Bulava/Assets/low poly pack
+CourseProject_Bulava/Assets/Darth_Artisan
+CourseProject_Bulava/Assets/Free Low Poly Desert Pack
+CourseProject_Bulava/Assets/ColorSkies
+CourseProject_Bulava/Assets/Christmas Tree - POLYCRAFT Series
+CourseProject_Bulava/Assets/KY_effects
+CourseProject_Bulava/Assets/lev1
+CourseProject_Bulava/Assets/Lowpoly Flowers
+CourseProject_Bulava/Assets/LowPolyWater_Pack
+CourseProject_Bulava/Assets/RainMaker
+CourseProject_Bulava/Assets/Realistic Hail Set
+renders
